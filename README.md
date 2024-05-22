@@ -7,11 +7,11 @@ From here you can select a course to gather information about and use SQL querie
 
 The program calculates:
 <ul>
-  <li>```student final grades```</li>
-  <li>```class average```</li>
-  <li>```class minimum```</li>
-  <li>```class maximum``` </li>
-  <li>```standard deviation``` </li>
+  <li>student final grades</li>
+  <li>class average</li>
+  <li>class minimum</li>
+  <li>class maximum</li>
+  <li>standard deviation</li>
 </ul>
 
 From here a histogram representing the statistics above is generated on the spreadsheet.  
@@ -19,13 +19,13 @@ From here a histogram representing the statistics above is generated on the spre
 Finally, a report is generated using student final grades, including everything listed above but in a generated ```MS Word document```.
 
 ## Technologies 
-I used VBA, XML, and SQL to create this project. 
+I used ```VBA```, ```XML```, and ```SQL``` to create this project. 
 
 ## How to Run it 
 <ol>
-  <li>```clone the repository```</li>
-  <li>```open script.xlsm```</li>
-  <li>```navigate to assignment 5 in the ribbon and click `connect to database````</li>
+  <li>clone the repository</li>
+  <li>open script.xlsm</li>
+  <li>navigate to assignment 5 in the ribbon and click `connect to database`</li>
 </ol>
 
 Great experience overall, I really enjoyed making this project. Happy coding!
