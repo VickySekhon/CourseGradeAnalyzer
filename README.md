@@ -6,25 +6,26 @@ A ```Userform``` that connects to a database is shown to the user. It lists avai
 From here you can select a course to gather information about and use SQL queries to find information about a course using the coursecode, Coursename, Student information (first name, last name, ID), and Student grades for that course (assignments, midterm, exam).
 
 The program calculates:
-o ```student final grades```
-o	```class average```
-o	```class minimum```
-o	```class maximum``` 
-o	```standard deviation``` 
+<ul>
+  <li>```student final grades```</li>
+  <li>```class average```</li>
+  <li>```class minimum```</li>
+  <li>```class maximum``` </li>
+  <li>```standard deviation``` </li>
+</ul>
 
 From here a histogram representing the statistics above is generated on the spreadsheet.  
 
-Finally, using student final grades a report is generated which includes the following: 
-o	```A newly created word document```
-o	```Copy of histogram of final grades```
-o	```Table including all final grades```
-o	```class minimum```
-o	```class maximum```
-o	```class average``` 
-o	```Standard deviation```
+Finally, a report is generated using student final grades, including everything listed above but in a generated ```MS Word document```.
 
 ## Technologies 
-
 I used VBA, XML, and SQL to create this project. 
+
+## How to Run it 
+<ol>
+  <li>```clone the repository```</li>
+  <li>```open script.xlsm```</li>
+  <li>```navigate to assignment 5 in the ribbon and click `connect to database````</li>
+</ol>
 
 Great experience overall, I really enjoyed making this project. Happy coding!
