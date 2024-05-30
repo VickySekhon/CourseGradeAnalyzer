@@ -5,6 +5,7 @@ A ```Userform``` that connects to a database is shown to the user. It lists avai
 
 From here you can select a course to gather information about and use SQL queries to find information about a course using the coursecode, Coursename, Student information (first name, last name, ID), and Student grades for that course (assignments, midterm, exam).
 
+
 The program calculates:
 <ul>
   <li>student final grades</li>
