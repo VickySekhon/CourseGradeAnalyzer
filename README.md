@@ -1,5 +1,6 @@
 #Course Grade Analyzer
 
+
 ## What Does it Do?
 A ```Userform``` that connects to a database is shown to the user. It lists available courses in a database following a schema identical to ```studentGrades.mdb```. 
 
